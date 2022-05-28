@@ -3,7 +3,7 @@
 ## Como Abrir?
 
 - Se estiver usando o Visual Studio (roxo), pode apenas abrir a solution dentro da pasta do código. 
-- Se estiver utilizando o VS Code, abra a pasta do código.
+- Se estiver utilizando o VS Code, abra a pasta do código e faça uso do Swagger.
 
 ## Sobre:
 
